@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">04 - Creación elementos por código</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="grupo_a">A</string>
+    <string name="grupo_b">B</string>
+    <string name="grupo_c">C</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Crear</string>
+    <string-array name="spinner_ciclos">
+        <item>Selecciona un Ciclo</item>
+        <item>DAM</item>
+        <item>DAW</item>
+        <item>SMR</item>
+        <item>3D</item>
+    </string-array>
+</resources>
